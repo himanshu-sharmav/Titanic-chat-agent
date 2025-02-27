@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+pandas
+matplotlib
+seaborn
+google-generativeai
+langchain-google-genai
+langchain-core
+python-dotenv
+Pillow
+requests
